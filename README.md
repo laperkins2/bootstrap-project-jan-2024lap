@@ -4,13 +4,14 @@ This is a website built with Bootstrap. It demonstrates Bootstrap Components and
 
 ## About
 
-This is a website about using bootstrap to style one of my previous work
+This is a website about using bootstrap to style one of my previous work...
 
 It contains three pages:
 
 - index1.html - the home page
 - about.html - the about me page
 - gallery.html - my interest page
+- https://github.com/laperkins2/bootstrap-project-jan-2024lap.git
 
 ## Built With
 
