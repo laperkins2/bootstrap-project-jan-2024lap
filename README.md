@@ -26,7 +26,7 @@ It contains three pages:
 - [x] Bootstrap List Group
 - [x] Bootstrap Card Component
 - [x] Bootstrap Grid
-- [ ] gallery.html
+- [x] gallery.html
 - [x] Bootstrap Utility Class
 
 ## Contact
@@ -35,10 +35,14 @@ Author: Louis Perkins
 
 ## Acknowledgements
 
+- Robert McCreary (Instructor)
 - https://getbootstrap.com/
 - https://www.w3schools.com/cssref/sel_class.php
 - https://www.w3schools.com/js/js_functions.asp
-- https://www.w3schools.com/docs/5.3/utilities/opacity/
-- https://www.w3schools.com/docs/5.3/utilities/spacing/
-- https://www.w3schools.com/docs/5.3/utilities/helpers/
-- https://www.w3schools.com/bootstrap/bootstrap_cards.php
+- https://getbootstrap.com/docs/5.3/utilities/opcity/
+- https://getbootstrap.com/docs/5.3/utilities/spacing/
+- https://getbootstrap.com/docs/5.3/utilities/helpers/
+- https://www.w3schools.com/bootstrap5/bootstrap_cards.php
+- https://getbootstrap.com/docs/5.3/utilities/sizing/
+- https://getbootstrap.com/docs/5.3/utilities/shadows/
+- https://w3schools.com/bootstrap_tooltip.asp
