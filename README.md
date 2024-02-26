@@ -24,7 +24,7 @@ It contains three pages:
 
 - [x] index1.html
 - [x] about.html
-- [x] Bootstrap List Group
+- [x] Bootstrap List Group added on my about page in dropdown tab
 - [x] Bootstrap Card Component
 - [x] Bootstrap Grid
 - [x] gallery.html
