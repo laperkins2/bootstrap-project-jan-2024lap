@@ -11,7 +11,7 @@ It contains three pages:
 - index1.html - the home page
 - about.html - the about me page
 - gallery.html - my interest page
-- https://github.com/laperkins2/bootstrap-project-jan-2024lap.git
+- https://github.com/laperkins2/bootstrap-project-jan-2024lap.git -https://github.com/laperkins2/bootstrap-project-jan-2024lap.git
 
 ## Built With
 
